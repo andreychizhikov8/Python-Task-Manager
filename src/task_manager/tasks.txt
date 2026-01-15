@@ -1,0 +1,8 @@
+1;Buy milk;2026-01-10T09:30:00;;0;False
+2;Fix the printer;2026-01-11T14:15:00;;20;False
+3;Read a book;2026-01-12T18:00:00;;50;False
+4;Go to the gym;2026-01-13T10:00:00;2026-01-13T12:00:00;100;True
+5;Build a task manager;2026-01-14T16:45:00;;60;False
+6;Practice guitar;2026-01-14T20:00:00;2026-01-14T21:00:00;100;True
+7;Prepare for exam;2026-01-15T09:00:00;;30;False
+8;Understand datetime in Python;2026-01-15T11:30:00;2026-01-15T12:10:00;100;True
